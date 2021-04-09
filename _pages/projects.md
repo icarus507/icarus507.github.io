@@ -1,6 +1,6 @@
 ---
 layout: content
-title: Projects
+title: 说说
 permalink: /projects/
 ---
 1. 「我的欢乐像落日那样沉没了。」 2020-08-01
