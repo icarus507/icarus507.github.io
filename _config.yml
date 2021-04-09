@@ -10,8 +10,6 @@ email: jianwei_feng@foxmail.com
 baseurl: "" # the subpath of your site, e.g. /blog 注释掉：/paper-jekyll-theme
 url: "" # the base hostname & protocol for your site 注释掉：https://deadbeef.me
 
-google_analytics_id: UA-1111111111-1
-disqus_id:
 
 # Build settings
 include: [_pages]
