@@ -4,7 +4,6 @@ title: "Quick Start Guide"
 description: "How to setup and use the blog"
 date: 2017-07-21
 tags: jekyll
-comments: true
 ---
 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
