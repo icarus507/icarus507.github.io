@@ -1,15 +1,15 @@
 # Site settings
-title: "Paper Jekyll Theme"
+title: "Rivendell - JW's blog"
 description: > 
-  Write a description of your website here.
+  说出口的话，离弦的箭，逝去的生活和失去的机会。--《商人和炼金术士之门》
 
-author: Johnny Appleseed
-email: johnny@appleseed.com
+author: icarus 507
+email: jianwei_feng@foxmail.com
 twitter_username: _HairForceOne
-github_username: mkchoi212
+github_username: icarus507
 
-baseurl: "" # the subpath of your site, e.g. /blog；/paper-jekyll-theme
-url: "" # the base hostname & protocol for your site；https://deadbeef.me
+baseurl: "" # the subpath of your site, e.g. /blog 注释掉：/paper-jekyll-theme
+url: "" # the base hostname & protocol for your site 注释掉：https://deadbeef.me
 
 google_analytics_id: UA-1111111111-1
 disqus_id:
