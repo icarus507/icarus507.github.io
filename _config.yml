@@ -6,8 +6,6 @@ description: >
 
 author: icarus 507
 email: jianwei_feng@foxmail.com
-twitter_username: _HairForceOne
-github_username: icarus507
 
 baseurl: "" # the subpath of your site, e.g. /blog 注释掉：/paper-jekyll-theme
 url: "" # the base hostname & protocol for your site 注释掉：https://deadbeef.me
