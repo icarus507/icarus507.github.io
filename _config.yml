@@ -15,8 +15,7 @@ disqus_id:
 
 # Build settings
 include: [_pages]
-markdown: rdiscount
-pygments: true
+markdown: kramdown
 permalink: /:year/:month/:title.html
 
 sass:
