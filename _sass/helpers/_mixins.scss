@@ -16,13 +16,13 @@
 
 // Font families
 @mixin ff--sans-serif($font-weight: normal) {
-    font-family:  sans-serif; 
+    font-family:  'system-ui',sans-serif; 
     /* 'Roboto', 'Helvetica Neue', Helvetica, */
     font-weight: $font-weight;
 }
 
 @mixin ff--code {
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'system-ui'，'Roboto Mono', monospace;
 }
 
 // Font sizing
