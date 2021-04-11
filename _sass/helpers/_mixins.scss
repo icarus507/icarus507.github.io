@@ -16,8 +16,12 @@
 
 // Font families
 @mixin ff--sans-serif($font-weight: normal) {
+<<<<<<< HEAD
     font-family:  'system-ui',sans-serif; 
     /* 'Roboto', 'Helvetica Neue', Helvetica, */
+=======
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif;
+>>>>>>> parent of 43a66fe (Update _mixins.scss)
     font-weight: $font-weight;
 }
 
