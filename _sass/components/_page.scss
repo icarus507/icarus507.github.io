@@ -41,7 +41,7 @@
         
     p {
         font-size: 1.4rem;
-        @include fs--body;
+        line-height: 1.5;
         color: $c-base__01;
     }
 }
