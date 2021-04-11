@@ -40,8 +40,8 @@
             align-items: center;
         
     p {
-        @include fs--body;
         font-size: 1.4rem;
+        @include fs--body;
         color: $c-base__01;
     }
 }
