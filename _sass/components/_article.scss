@@ -39,8 +39,12 @@
 
 .c-article__main {
     margin-bottom: 5rem; // 50px
+    color: #1a2a3a;
+    font-family: cursive
+    /*
     @include fs--body;
     color: $c-base__01;
+    */
 
     > * {
         margin-bottom: 1.8rem; // 18px
