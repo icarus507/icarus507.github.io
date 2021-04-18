@@ -1,2 +1,0 @@
-
-## Rivendell -- JW's Blog
