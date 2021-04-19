@@ -1,13 +1,12 @@
 # Base blog settings
 baseurl                      : "/dactl/" # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
-url                          : "" # the base hostname & protocol for your site
+url                          : "rivendell.world" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
   title                      : dactl
-  description                  : >
-                               this should contain a proper description
+  description                : this should contain a proper description
 
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
