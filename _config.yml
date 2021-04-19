@@ -1,18 +1,40 @@
 # Site settings
-title: "Rivendell - JW's blog"
-description: 「说出口的话，离弦的箭，逝去的生活和失去的机会。」
-#《商人和炼金术士之门》
+title:          Rain
+description:    "Rain is a simple and clean Jekyll theme with focus on content."
+url:            https://github.com/inelaah/rain
 
-baseurl: "" # the subpath of your site, e.g. /blog 注释掉：/paper-jekyll-theme
-url: "" # the base hostname & protocol for your site 注释掉：https://deadbeef.me
+# Author
+author:
+  name:         Inela Avdic Hukic
+  email:        inelaah@gmail.com
+  url:          https://inelaah.com
 
 # Build settings
-include: [_pages]
-markdown: kramdown
-permalink: /:year/:month/:title.html
+markdown:       kramdown
 
+# Assets
 sass:
-    style: compressed
+  sass_dir:     _sass
+  style:        compressed
 
-exclude: [vendor]
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  # - jemoji #Uncomment this to allow emoji in your post
 
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
+
+# Related posts settings
+related_posts_section:
+  max_count:        5
+  min_common_tags:  2
+
+# Links to social media
+social:
+  email: inelaah@gmail.com
+  github: https://github.com/inelaah
+  twitter: https://twitter.com
+  linkedin: https://ba.linkedin.com/in/inela-avdic-hukic-322354131
