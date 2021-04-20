@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Getting Started with Sleek
-featured-img: Apollo8
+featured-img: apollo-8
 ---
 
 
+测试
