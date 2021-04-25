@@ -4,10 +4,29 @@ title: About
 permalink: /about/
 ---
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
 
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
+或许你可以通过下边这些清单来了解我：
 
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+##阅读十佳
+1. 《给青年诗人的信》
+2. 《堂吉诃德》
+3. 《九故事》
+4. 《上来透口气》
+5. 《新名字的故事》
+6. 《当我们谈论爱情时我们在谈论什么》
+7. 《献给阿尔吉侬的花束》
+8. 《呼吸》
+9. 《冬泳》
+10. 《是一种孤独》
+
+##观影十佳
+1. 《教父》
+2. 《侠女》
+3. 《爱乐之城》
+4. 《三峡好人》
+5. 《一一》
+6. 《银翼杀手》
+7. 《钢的琴》
+8. 《逍遥骑士》
+9. 《刺客聂隐娘》
+10. 《千与千寻》
