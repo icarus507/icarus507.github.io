@@ -2,7 +2,7 @@
 ```bash
 sleek
 ├── _includes	                 # theme includes
-├── _js	                       # javascript files (by default jquery will be included with the scripts inside)
+├── _js	                       # javascript files (by default jquery will be included with the scripts 
 ├── _layouts                   # theme layouts (see below for details)
 ├── _pages                     # pages folder (empty by default)
 ├── _posts                     # blog posts
