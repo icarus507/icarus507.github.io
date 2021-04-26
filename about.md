@@ -1,13 +1,46 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
+### About me
 
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
+或许你可以通过这些清单来了解我：
 
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+#### 年度阅读最佳
+* 2020 年：特德·姜 《呼吸》
+* 2019 年：JD·塞林格 《九故事》
+* 2018 年：埃莱娜·费兰特 《新名字的故事》
+
+#### 年度观影最佳
+* 2020 年：《理查德·朱维尔的哀歌》
+* 2019 年：《过昭关》
+* 2018 年：《三块广告牌》
+
+#### 历史阅读十佳
+* 《给青年诗人的信》
+* 《堂吉诃德》
+* 《九故事》
+* 《上来透口气》
+* 《新名字的故事》
+* 《当我们谈论爱情时我们在谈论什么》
+* 《献给阿尔吉侬的花束》
+* 《呼吸》
+* 《冬泳》
+* 《十一种孤独》
+
+#### 历史观影十佳
+* 《教父》
+* 《侠女》
+* 《爱乐之城》
+* 《三峡好人》
+* 《一一》
+* 《银翼杀手》
+* 《钢的琴》
+* 《逍遥骑士》
+* 《刺客聂隐娘》
+* 《千与千寻》
+
+
+如果你对我的博客感兴趣或有所指正，欢迎邮件联系：[jianwei_feng@foxmail.com](mailto:jianwei_feng@foxmail.com) 「星光照耀我们相遇」
