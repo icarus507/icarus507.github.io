@@ -1,11 +1,22 @@
 ---
 layout: post
-title: 关于地图
-summary: 在线地图，一个非常垂直且不受产品设计驱动的领域。
-featured-img: emile-perron-190221
 ---
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-### 写在前面
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-毕业的第一份工作是在一家互联网公司做一款地图APP的产品经理。在线地图，一个非常垂直且不受产品设计驱动的领域。在小众领域从业的好处是，你所能学习到的行业知识，对于非从业者来讲，是极度缺少渠道来学习和了解的，但其弊端也在于此。曲高和寡尚可自我安慰，曲低和寡就难免悲凉了。
+Jekyll also offers powerful support for code snippets:
 
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

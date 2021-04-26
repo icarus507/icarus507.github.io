@@ -3,9 +3,6 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-<<<<<<< HEAD
-测试
-=======
 
 Jekyll is a great tool to create static sites, but there’s no backend to send your data to.
 
@@ -16,7 +13,6 @@ Check the form below to see it in action!
 ### Example Formspree contact form with validation and reCaptcha
 
 Fill in the form or [email me](mailto:{{site.email}}) to discuss your next project.
->>>>>>> parent of e93b8ac (uodate)
 
 {% include form.html %}
 
