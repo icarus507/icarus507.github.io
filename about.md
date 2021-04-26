@@ -43,4 +43,4 @@ permalink: /about/
 * 《千与千寻》
 
 
-如果你对我的博客感兴趣或有所指正，欢迎邮件联系：[jianwei_feng@foxmail.com](mailto:jianwei_feng@foxmail.com) 「星光照耀我们相遇」
+如果你对我的博客感兴趣或有所指正，欢迎邮件联系：jianwei_feng@foxmail.com 「星光照耀我们相遇」
