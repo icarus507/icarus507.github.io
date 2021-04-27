@@ -4,9 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-### About me
-
-或许你可以通过这些清单来了解我：
+或许，你可以通过这些清单来了解我：
 
 #### 年度阅读最佳
 * 2020 年：特德·姜 《呼吸》
@@ -43,4 +41,6 @@ permalink: /about/
 * 《千与千寻》
 
 
-如果你对我的博客感兴趣或有所指正，欢迎邮件联系：[jianwei_feng@foxmail.com](mailto:jianwei_feng@foxmail.com) 「星光照耀我们相遇」
+如果你对我的博客感兴趣或有所指正，欢迎邮件联系：[jianwei_feng@foxmail.com](mailto:jianwei_feng@foxmail.com) 
+
+「星光照耀我们相遇」
