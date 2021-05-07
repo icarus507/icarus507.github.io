@@ -1,4 +1,4 @@
 ---
 layout: default
-title: Sleek Jekyll Theme
+title: rivendell world
 ---
