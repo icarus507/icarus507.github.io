@@ -1,4 +1,3 @@
-/*! loadCSS. [c]2017 Filament Group, Inc. MIT License */
 (function(w){"use strict";if(!w.loadCSS){w.loadCSS=function(){}}
 var rp=loadCSS.relpreload={};rp.support=(function(){var ret;try{ret=w.document.createElement("link").relList.supports("preload")}catch(e){ret=!1}
 return function(){return ret}})();rp.bindMediaToggle=function(link){var finalMedia=link.media||"all";function enableStylesheet(){link.media=finalMedia}
