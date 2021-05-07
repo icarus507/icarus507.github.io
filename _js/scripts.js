@@ -1,4 +1,3 @@
-/*eslint-env jquery*/
 
 // Jquery & Velocity JS included in GULP
 $( document ).ready( function() {
