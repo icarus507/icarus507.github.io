@@ -4,9 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
-你可以通过这些清单来了解我：
+可以通过这些清单来了解我：
 
-#### 最近在读：
+#### 最近在读（五月）：
 * 《SaaS创业路线》
 * 《好战略 坏战略》
 * 《网络是怎样连接的》
@@ -31,9 +31,9 @@ permalink: /about/
 * 《一一》
 * 《银翼杀手》
 * 《钢的琴》
-* 《逍遥骑士》
 * 《刺客聂隐娘》
+* 《过昭关》
 * 《千与千寻》
 
 
-如果你对我的博客感兴趣或有所指正，欢迎邮件联系：[jianwei_feng@foxmail.com](mailto:jianwei_feng@foxmail.com) 
+如果你对我的博客感兴趣，欢迎邮件联系：[jianwei_feng@foxmail.com](mailto:jianwei_feng@foxmail.com) 
