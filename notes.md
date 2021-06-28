@@ -8,7 +8,9 @@ permalink: /notes/
 - [前端学习笔记]()
 
 ### 读书笔记
+- [《信息规则》](https://www.notion.so/d24130c6fa074b35a4191c2a4c24f0e8)
+- [《长尾理论》](https://www.notion.so/b5e13ea99b764d319da74c2d22b16e3d)
 - [《创新者的窘境》](https://www.notion.so/1645c7aab36042a99121e462c888062a)
 - [《闪电式扩张》](https://www.notion.so/1745d6d7f8684aab8e365628b8388c2c)
-- [《信息规则》]()
-- [《长尾理论》]()
+- [《经济学原理（微观经济学）》](https://www.notion.so/905fcb81bb2944789dcd17a82cd487e8)
+-[《思想史：从火到弗洛伊德》](https://www.notion.so/7ca1856f37b1495aa2d77cd917b0a920)
