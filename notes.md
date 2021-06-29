@@ -4,8 +4,8 @@ title: Learning Notes
 permalink: /notes/
 ---
 ### 学习笔记
-- [SQL学习笔记]()
-- [前端学习笔记]()
+- [SQL学习笔记](https://www.notion.so/SQL-e60a012a6314483fb858317c0e7e6c47)
+- [前端学习笔记](https://www.notion.so/0758518fb6344d678cf37e0200e79a38)
 
 ### 读书笔记
 - [《信息规则》](https://www.notion.so/d24130c6fa074b35a4191c2a4c24f0e8)
